@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+selenium
+pillow
+tkinter
+html5lib
+lxml
+cryptography
