@@ -1,15 +1,17 @@
 # SupBot
 
 
-A buy bot made for the supereme website. Made back in 2019 probably doe snot work anyone. Adding it to my gihub for archival reasons.
+A buy bot made for the supereme website. Made back in 2019, does not work anymore. Adding it to my gihub for archival reasons.
+Was working back in its day, though it was not perfect. Could not completely bypass ReCaptcha, but sometimes it was able to.
 
 Made By: lejara
 
 ## How to Compile
 
-Version 1.1+ : pyinstaller --onefile SupBot.py
+Version 1.1+ : 
+```pyinstaller --onefile SupBot.py```
 
-	To folder dist:
+	In folder dist:
 
 		1. Transfer PoxyBypass Folder
 
