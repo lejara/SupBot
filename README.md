@@ -1,6 +1,9 @@
 # SupBot
 
-Made By: DarkLep
+
+A buy bot made for the supereme website. Made back in 2019 probably doe snot work anyone. Adding it to my gihub for archival reasons.
+
+Made By: lejara
 
 ## How to Compile
 
